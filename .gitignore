@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Generated files (the code recreates these)
+data/raw/
+data/processed/
+outputs/
+
+# macOS
+.DS_Store
